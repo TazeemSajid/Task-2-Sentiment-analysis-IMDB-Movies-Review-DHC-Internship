@@ -42,6 +42,16 @@ task2_sentiment_analysis_imdb_reviews.py → Python script for training, evaluat
 
 imdb_reviews_1000.csv → Dataset used in this project.
 
+**⚙️ Tools & Technologies**
+
+Python 3
+
+Pandas → Data handling
+
+Scikit-learn → Preprocessing, CountVectorizer, Logistic Regression, evaluation
+
+Jupyter Notebook / Python script → Development and execution environment
+
 **▶️ How to Run**
 
 **Install dependencies:**
